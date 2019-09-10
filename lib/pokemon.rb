@@ -18,4 +18,6 @@ class Pokemon
     new_pokemon.hp = pokemon[0][3]
     return new_pokemon
   end
-end 
+
+
+end
